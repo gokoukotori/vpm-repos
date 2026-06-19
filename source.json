@@ -11,9 +11,9 @@
         "url":"https://github.com/gokoukotori/vpm-repos",
         "text":"View on GitHub"
     },
-    "bannerUrl":"banner.png",
+    "bannerUrl":"",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "gokoukotori/PoseTune"
     ],
     "packages":[]
 }
