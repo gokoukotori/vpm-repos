@@ -13,7 +13,8 @@
     },
     "bannerUrl":"",
     "githubRepos":[
-        "gokoukotori/PoseTune"
+        "gokoukotori/PoseTune",
+        "gokoukotori/SetupOutfitComponent",
     ],
     "packages":[]
 }
