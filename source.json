@@ -15,6 +15,7 @@
     "githubRepos":[
         "gokoukotori/PoseTune",
         "gokoukotori/SetupOutfitComponent",
+        "gokoukotori/PositionScaleCorrection",
     ],
     "packages":[]
 }
