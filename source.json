@@ -16,6 +16,7 @@
         "gokoukotori/PoseTune",
         "gokoukotori/SetupOutfitComponent",
         "gokoukotori/PositionScaleCorrection",
+        "gokoukotori/FbxUVTextureTransferForUnity",
     ],
     "packages":[]
 }
