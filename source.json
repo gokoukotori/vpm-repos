@@ -17,6 +17,7 @@
         "gokoukotori/SetupOutfitComponent",
         "gokoukotori/PositionScaleCorrection",
         "gokoukotori/FbxUVTextureTransferForUnity",
+        "gokoukotori/TTTMaterialModifierToAOMaterialEditor",
     ],
     "packages":[]
 }
