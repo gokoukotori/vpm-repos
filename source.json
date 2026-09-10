@@ -18,6 +18,7 @@
         "gokoukotori/PositionScaleCorrection",
         "gokoukotori/FbxUVTextureTransferForUnity",
         "gokoukotori/TTTMaterialModifierToAOMaterialEditor",
+        "gokoukotori/TTTMipmapStreamingFix",
     ],
     "packages":[]
 }
