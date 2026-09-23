@@ -19,6 +19,7 @@
         "gokoukotori/FbxUVTextureTransferForUnity",
         "gokoukotori/TTTMaterialModifierToAOMaterialEditor",
         "gokoukotori/TTTMipmapStreamingFix",
+        "gokoukotori/TTTIslandTypeExpand",
     ],
     "packages":[]
 }
