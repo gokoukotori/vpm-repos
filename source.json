@@ -20,6 +20,7 @@
         "gokoukotori/TTTMaterialModifierToAOMaterialEditor",
         "gokoukotori/TTTMipmapStreamingFix",
         "gokoukotori/TTTIslandTypeExpand",
+        "gokoukotori/TakePhotoAvatar",
     ],
     "packages":[]
 }
