@@ -21,6 +21,7 @@
         "gokoukotori/TTTMipmapStreamingFix",
         "gokoukotori/TTTIslandTypeExpand",
         "gokoukotori/TakePhotoAvatar",
+        "gokoukotori/MaterialPreview",
     ],
     "packages":[]
 }
